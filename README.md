@@ -1,4 +1,4 @@
-<img width="1028" height="677" alt="image" src="https://github.com/user-attachments/assets/85d090fd-a4d9-4d3b-8e73-091e0308f0f1" />### EX6 Information Retrieval Using Vector Space Model in Python
+### EX6 Information Retrieval Using Vector Space Model in Python
 ### DATE: 16-02-2026
 ### AIM: To implement Information Retrieval Using Vector Space Model in Python.
 ### Description: 
@@ -222,3 +222,5 @@ print(f"\nThe highest rank cosine score is: {highest_doc[5]} (Document ID: {high
 
 
 ### Result:
+
+Thus the, Information Retrieval using the Vector Space Model in Python involves several steps, including preprocessing text data, constructing a term-document matrix, TF-IDF scores, and performing similarity calculations between queries and documents is executed successfully.
